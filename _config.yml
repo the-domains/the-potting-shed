@@ -1,0 +1,28 @@
+name: The Potting Shed
+favicon: null
+layout_spectrum: 0.994852933799848
+typography_spectrum: 0.03427847381681204
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5157762290909886
+  lightness: 0.5345942249987274
+  saturation: 0.737474441062659
+  rhythmicContrast: 0.9846663067582995
+purpose: []
